@@ -1,0 +1,32 @@
+_repo: La-San-Felice-Tome-09_21191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21191'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamilton, Emma, Lady, 1761?-1815 -- Fiction'
+- !lcc 'PQ'
+title: La San-Felice, Tome 09
+url: http://www.gutenberg.org/ebooks/21191
