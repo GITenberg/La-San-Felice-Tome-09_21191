@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21191#La-San-Felice-Tome-09
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-04-19'
 gutenberg_type: Text
